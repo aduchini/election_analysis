@@ -17,7 +17,10 @@ A Colorado Board of Elections employee, needs assistance with an elections audit
     - Raymon Anthony Doane: 3.1% (11,606 total votes)
 - The winner of this election was **Diana DeGette**, with 272,892 votes, which represent **73.8%** of the electorate.
 
-## Election-Audit Summary: In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
+Here is a screenshot of the results, as they are displayed on a terminal.
+![screenshot of results within terminal](resources/terminal_screenshot.png)
+
+## Election-Audit Summary
 The [python script](PyPoll_Challenge.py) can be repurposed for other elections with few modifications:
 - A prompt box can be added to enable the user to select the file name by replacing line 9 with the following: 
 ```
